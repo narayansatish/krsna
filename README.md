@@ -1,1 +1,1 @@
-Data structures and algorithms implementation codes.
+Data structures and algorithms codes.
